@@ -6,7 +6,7 @@ import requests
 import re
 # Code here - Import BeautifulSoup library
 from bs4 import BeautifulSoup
-
+import sys
 # Code ends here
 
 # function to get the html source text of the medium article
